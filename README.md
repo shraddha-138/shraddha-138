@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shraddha-138
-- 👀 I’m interested in Python, Rust, Javascript, C.
+- 👀 I’m interested in Python, Rust, Javascript, 
 - 🌱 I’m currently learning Python and Mysql.
 
 <!---
