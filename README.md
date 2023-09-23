@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shraddha-138
-- 👀 I’m interested in Python, Rust, Javascript, 
-- 🌱 I’m currently learning Python and Mysql.
+- 👀 I’m interested in Python, pyspark 
+- 🌱 I’m currently learning Pyspark and Mysql.
 
 <!---
 shraddha-138/shraddha-138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
